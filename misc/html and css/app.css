@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	border: 2px solid black;
+}
+
+li {
+	color: green;
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+}
