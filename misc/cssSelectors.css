@@ -1,0 +1,39 @@
+/*Element*/
+li {
+
+}
+
+/*Class*/
+.hello {
+
+}
+
+/*id*/
+#name {
+
+}
+
+/*Star*/
+* {
+
+}
+
+/*Descendant Selector*/
+li a{
+
+}
+
+/*Adjacent Selector*/
+h4 + ul {
+
+}
+
+/*Attribute Selector*/
+a[href="http://google.com"] {
+
+}
+
+/*nth of type*/
+ul:nth-of-type(3) {
+
+}
